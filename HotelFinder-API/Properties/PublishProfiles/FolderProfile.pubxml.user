@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\Apiexample</_PublishTargetUrl>
+    <History>True|2023-03-31T07:39:20.7723103Z;False|2023-03-31T10:36:43.7755147+03:00;False|2023-03-31T10:34:47.4991435+03:00;False|2023-03-31T10:32:59.3134050+03:00;False|2023-03-31T10:30:01.2601944+03:00;False|2023-03-31T10:29:15.5222631+03:00;False|2023-03-31T10:27:55.4955331+03:00;False|2023-03-31T10:27:13.1356372+03:00;False|2023-03-31T10:26:35.8798490+03:00;True|2023-03-17T15:50:04.1929067+03:00;False|2023-03-17T15:49:03.2140522+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

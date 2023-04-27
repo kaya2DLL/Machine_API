@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Entities\bin\Release\net6.0\Mac.Entities.deps.json
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Entities\bin\Release\net6.0\Mac.Entities.runtimeconfig.json
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Entities\bin\Release\net6.0\Mac.Entities.dll
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Entities\bin\Release\net6.0\Mac.Entities.pdb
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Entities\obj\Release\net6.0\Mac.Entities.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Entities\obj\Release\net6.0\Mac.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Entities\obj\Release\net6.0\Mac.Entities.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Entities\obj\Release\net6.0\Mac.Entities.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Entities\obj\Release\net6.0\Mac.Entities.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Entities\obj\Release\net6.0\Mac.Entities.dll
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Entities\obj\Release\net6.0\refint\Mac.Entities.dll
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Entities\obj\Release\net6.0\Mac.Entities.pdb
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Entities\obj\Release\net6.0\Mac.Entities.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Entities\obj\Release\net6.0\ref\Mac.Entities.dll

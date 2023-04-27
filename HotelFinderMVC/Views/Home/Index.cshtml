@@ -1,0 +1,33 @@
+﻿@model IEnumerable<HotelFinder.Entities.Hotel>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center ">
+    <h1>Oteller</h1>
+</div>
+
+
+
+<table class="table-dark table-striped">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">City</th>
+        </tr>
+    </thead>
+    @foreach (var take in Model)
+    {
+
+        <tbody>
+            <tr>
+                <th scope="row">1</th>
+                <td>@take.Id</td>
+                <td>@take.Name</td>
+                <td>@take.City</td>
+            </tr>
+        </tbody>
+    }
+
+</table>

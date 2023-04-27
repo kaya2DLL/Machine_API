@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+o2TriqqiAdLHzENH9ew5a2AtkY3hmQa4RXKLFtSVcBHqlbg8NrTi7EZLsw2SSkSyZ9wKt4twmoaEOoCr6nu5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\OneDrive\\Masaüstü\\site\\HotelFinder\\HotelFinder.API\\HotelFinder.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

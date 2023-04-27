@@ -1,0 +1,17 @@
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Business\obj\Debug\net6.0\Mac.Business.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Business\obj\Debug\net6.0\Mac.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Business\obj\Debug\net6.0\Mac.Business.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Business\obj\Debug\net6.0\Mac.Business.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Business\obj\Debug\net6.0\Mac.Business.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Business\bin\Debug\net6.0\Mac.Business.deps.json
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Business\bin\Debug\net6.0\Mac.Business.dll
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Business\bin\Debug\net6.0\Mac.Business.pdb
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Business\bin\Debug\net6.0\Mac.Entities.dll
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Business\bin\Debug\net6.0\MacDataAccess.dll
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Business\bin\Debug\net6.0\MacDataAccess.pdb
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Business\bin\Debug\net6.0\Mac.Entities.pdb
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Business\obj\Debug\net6.0\Mac.Business.csproj.CopyComplete
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Business\obj\Debug\net6.0\Mac.Business.dll
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Business\obj\Debug\net6.0\refint\Mac.Business.dll
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Business\obj\Debug\net6.0\Mac.Business.pdb
+C:\Users\USER\OneDrive\Masaüstü\Mac\HotelFinder.Business\obj\Debug\net6.0\ref\Mac.Business.dll
